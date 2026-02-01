@@ -52,3 +52,11 @@ O projeto simula um cenário real de **Internet das Coisas (IoT)**, integrando h
 
 ## 🖥️ Arquitetura do Sistema
 
+[Sensores MQ-135 / MQ-7]
+↓
+[ESP8266]
+[Display OLED Local]
+↓
+[Wi-Fi Connection]
+↓ ↓
+[Supabase] [ThingSpeak]
